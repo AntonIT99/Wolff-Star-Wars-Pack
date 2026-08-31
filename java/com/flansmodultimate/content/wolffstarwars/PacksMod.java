@@ -4,12 +4,12 @@ import com.flansmodultimate.PackagedContentPackApi;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
-@Mod(StarWarsPackMod.MOD_ID)
-public class StarWarsPackMod
+@Mod(PacksMod.MOD_ID)
+public class PacksMod
 {
     public static final String MOD_ID = "flansmodultimate_wolffstarwars";
 
-    public StarWarsPackMod(FMLJavaModLoadingContext context)
+    public PacksMod(FMLJavaModLoadingContext context)
     {
         PackagedContentPackApi.register(context, MOD_ID, "flans_content", "flans_models");
     }
