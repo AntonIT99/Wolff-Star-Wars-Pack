@@ -1,4 +1,4 @@
-package com.flansmodultimate.content.wolff.sw;
+package com.flansmodultimate.content.wolffstarwars;
 
 import com.flansmodultimate.PackagedContentPackApi;
 import net.minecraftforge.fml.common.Mod;
