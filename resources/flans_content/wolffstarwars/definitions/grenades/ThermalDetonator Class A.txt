@@ -1,6 +1,7 @@
 // Identity
 Name Thermal Detonator Class A
 ShortName ThermalDetonatorclassA
+Mass 1500
 
 // Item and rendering
 Icon itemthermaldetonatorclassa

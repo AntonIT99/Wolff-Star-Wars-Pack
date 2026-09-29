@@ -1,6 +1,7 @@
 // Identity
 Name Gas Detonator
 ShortName GasDetonator
+Mass 500
 
 // Item and rendering
 Icon itemthermaldetonator

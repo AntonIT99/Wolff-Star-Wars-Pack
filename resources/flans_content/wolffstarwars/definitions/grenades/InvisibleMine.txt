@@ -1,6 +1,7 @@
 // Identity
 Name Invisible Mine
 ShortName invisiblemine
+Mass 1500
 
 // Item and rendering
 Icon invisiblemine

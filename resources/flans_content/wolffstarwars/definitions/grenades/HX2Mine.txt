@@ -1,6 +1,7 @@
 // Identity
 Name HX2 Mine
 ShortName hx2mine
+Mass 1500
 
 // Item and rendering
 Icon hx2mine

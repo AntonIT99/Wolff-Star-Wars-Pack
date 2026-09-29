@@ -1,6 +1,7 @@
 // Identity
 Name Invisible Thermal Detonator
 ShortName InvisibleThermalDetonator
+Mass 500
 
 // Item and rendering
 Icon iteminvisibledetonator

@@ -1,6 +1,7 @@
 // Identity
 Name Gas Mine
 ShortName Gasmine
+Mass 1000
 
 // Item and rendering
 Icon hx2mine
