@@ -13,7 +13,7 @@ Texture itemhx2mine
 // Throwing
 SpinWhenThrown false
 ThrowDelay 10
-ThrowSpeed 0.1
+ThrowSpeedMs 6
 Remote false
 
 // Physics
