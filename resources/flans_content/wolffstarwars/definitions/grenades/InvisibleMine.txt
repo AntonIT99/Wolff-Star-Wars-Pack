@@ -1,6 +1,7 @@
 // Identity
 Name Invisible Mine
 ShortName invisiblemine
+Mass 1500
 
 // Item and rendering
 Icon invisiblemine
@@ -12,7 +13,7 @@ Texture iteminvisiblemine
 // Throwing
 SpinWhenThrown false
 ThrowDelay 10
-ThrowSpeed 0.1
+ThrowSpeedMs 6
 Remote false
 
 // Physics

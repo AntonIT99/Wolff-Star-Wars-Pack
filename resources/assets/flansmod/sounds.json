@@ -80,7 +80,37 @@
   "lightsaber_swing": {
     "category": "player",
     "sounds": [
-      "flansmod:lightsaber_swing"
+      "flansmod:lightsaber_swing1",
+      "flansmod:lightsaber_swing2",
+      "flansmod:lightsaber_swing3",
+      "flansmod:lightsaber_swing4"
+    ]
+  },
+  "lightsaber_hit": {
+    "category": "player",
+    "sounds": [
+      "flansmod:lightsaber_hit1",
+      "flansmod:lightsaber_hit2",
+      "flansmod:lightsaber_hit3",
+      "flansmod:lightsaber_hit4"
+    ]
+  },
+  "lightsaber_on": {
+    "category": "player",
+    "sounds": [
+      "flansmod:lightsaber_on1",
+      "flansmod:lightsaber_on2",
+      "flansmod:lightsaber_on3",
+      "flansmod:lightsaber_on4"
+    ]
+  },
+  "lightsaber_off": {
+    "category": "player",
+    "sounds": [
+      "flansmod:lightsaber_off1",
+      "flansmod:lightsaber_off2",
+      "flansmod:lightsaber_off3",
+      "flansmod:lightsaber_off4"
     ]
   },
   "dc15shoot": {

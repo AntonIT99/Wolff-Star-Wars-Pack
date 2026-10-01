@@ -61,15 +61,90 @@
       "size": 14627,
       "ticks": 22
     },
+    "lightsaber_hit1.ogg": {
+      "key": "lightsaber_hit1",
+      "size": 13521,
+      "ticks": 15
+    },
+    "lightsaber_hit2.ogg": {
+      "key": "lightsaber_hit2",
+      "size": 14814,
+      "ticks": 18
+    },
+    "lightsaber_hit3.ogg": {
+      "key": "lightsaber_hit3",
+      "size": 25940,
+      "ticks": 26
+    },
+    "lightsaber_hit4.ogg": {
+      "key": "lightsaber_hit4",
+      "size": 44057,
+      "ticks": 22
+    },
     "lightsaber_idle.ogg": {
       "key": "lightsaber_idle",
       "size": 18378,
       "ticks": 14
     },
-    "lightsaber_swing.ogg": {
-      "key": "lightsaber_swing",
-      "size": 8109,
-      "ticks": 11
+    "lightsaber_off1.ogg": {
+      "key": "lightsaber_off1",
+      "size": 11550,
+      "ticks": 20
+    },
+    "lightsaber_off2.ogg": {
+      "key": "lightsaber_off2",
+      "size": 11975,
+      "ticks": 26
+    },
+    "lightsaber_off3.ogg": {
+      "key": "lightsaber_off3",
+      "size": 7049,
+      "ticks": 10
+    },
+    "lightsaber_off4.ogg": {
+      "key": "lightsaber_off4",
+      "size": 46569,
+      "ticks": 23
+    },
+    "lightsaber_on1.ogg": {
+      "key": "lightsaber_on1",
+      "size": 19159,
+      "ticks": 42
+    },
+    "lightsaber_on2.ogg": {
+      "key": "lightsaber_on2",
+      "size": 11616,
+      "ticks": 24
+    },
+    "lightsaber_on3.ogg": {
+      "key": "lightsaber_on3",
+      "size": 13383,
+      "ticks": 28
+    },
+    "lightsaber_on4.ogg": {
+      "key": "lightsaber_on4",
+      "size": 48086,
+      "ticks": 24
+    },
+    "lightsaber_swing1.ogg": {
+      "key": "lightsaber_swing1",
+      "size": 9747,
+      "ticks": 12
+    },
+    "lightsaber_swing2.ogg": {
+      "key": "lightsaber_swing2",
+      "size": 12502,
+      "ticks": 17
+    },
+    "lightsaber_swing3.ogg": {
+      "key": "lightsaber_swing3",
+      "size": 8897,
+      "ticks": 10
+    },
+    "lightsaber_swing4.ogg": {
+      "key": "lightsaber_swing4",
+      "size": 11504,
+      "ticks": 15
     },
     "lugerreload.ogg": {
       "key": "lugerreload",

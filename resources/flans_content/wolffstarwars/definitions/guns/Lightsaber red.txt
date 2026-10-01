@@ -15,6 +15,7 @@ ReloadTime 0
 ShootDelay 15
 Mode SemiAuto
 OneHanded True
+Toggleable True
 
 // Ballistics
 Recoil 0
@@ -32,8 +33,12 @@ FOVZoomLevel 1.0
 ShootSound lightsaber_swing
 ReloadSound lugerReload
 MeleeSound lightsaber_swing
+MeleeHitSound lightsaber_hit
+ShieldHitSound lightsaber_hit
 IdleSound lightsaber_idle
 IdleSoundLength 15
+ToggleOnSound lightsaber_on
+ToggleOffSound lightsaber_off
 
 // Tooltip
 ShowDamage False

@@ -1,6 +1,7 @@
 // Identity
 Name Thermal Detonator Class A
 ShortName ThermalDetonatorclassA
+Mass 1500
 
 // Item and rendering
 Icon itemthermaldetonatorclassa
@@ -13,7 +14,7 @@ ModelScale 1.2
 // Throwing
 SpinWhenThrown true
 ThrowDelay 10
-ThrowSpeed 3.0
+ThrowSpeedMs 12
 
 // Physics
 Bounciness 0.8

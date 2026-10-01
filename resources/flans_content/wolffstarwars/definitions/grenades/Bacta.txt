@@ -11,7 +11,7 @@ StackSize 4
 // Throwing
 SpinWhenThrown true
 ThrowDelay 100
-ThrowSpeed 1.0
+ThrowSpeedMs 12
 StickToThrower true
 
 // Physics
