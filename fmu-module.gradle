@@ -3,6 +3,6 @@ registerFmuModule(
     modId: 'flansmodultimate_wolffstarwars',
     jarTask: 'wolffStarWarsPackJar',
     archiveBaseName: "[$minecraft_version] Flan's Mod Ultimate Wolff's Star Wars Pack",
-    archiveVersion: '3.0',
+    archiveVersion: '3.1',
     implementationTitle: 'wolffstarwarspack'
 )
