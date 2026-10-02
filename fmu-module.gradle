@@ -4,5 +4,7 @@ registerFmuModule(
     jarTask: 'wolffStarWarsPackJar',
     archiveBaseName: "[$minecraft_version] Flan's Mod Ultimate Wolff's Star Wars Pack",
     archiveVersion: '3.1',
+    // A blank projectUrl disables this module's CurseForge upload.
+    curseforge: [projectUrl: 'https://www.curseforge.com/minecraft/mc-mods/wolffs-star-wars-pack', projectId: '383191'],
     implementationTitle: 'wolffstarwarspack'
 )
