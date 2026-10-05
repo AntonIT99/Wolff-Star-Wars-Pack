@@ -33,10 +33,11 @@ FOVZoomLevel 1.0
 ShootSound lightsaber_swing
 ReloadSound lugerReload
 MeleeSound lightsaber_swing
+DistortSound False
 MeleeHitSound lightsaber_hit
 ShieldHitSound lightsaber_hit
 IdleSound lightsaber_idle
-IdleSoundLength 15
+IdleSoundLength 265
 ToggleOnSound lightsaber_on
 ToggleOffSound lightsaber_off
 
