@@ -1,0 +1,11 @@
+// Identity
+Name AAT Driver Droid
+ShortName WolffStarWars_SeparatistStandardAATDriver
+Description AAT Driver Droid with an E-5 and standard droid armor.
+
+// Armour
+Hat BattleDroidAATDriver
+
+// Items
+AddItem blasterE-5
+AddItem E-5Ammo 2

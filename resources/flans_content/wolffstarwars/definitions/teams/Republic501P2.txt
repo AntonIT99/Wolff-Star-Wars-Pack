@@ -1,0 +1,24 @@
+// Identity
+Name 501st Legion - Phase II
+ShortName WolffStarWars_Republic501P2
+
+// Appearance
+TextColour Blue
+TeamColour 64 128 255
+Hat clonetrooper501IIHelmet
+Chest clone501Armor
+Legs clone501Pants
+Shoes clone501Boots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_Republic501P2Trooper
+AddClass WolffStarWars_Republic501P2Assault
+AddClass WolffStarWars_Republic501P2Heavy
+AddClass WolffStarWars_Republic501P2Marksman
+AddClass WolffStarWars_Republic501P2332Trooper
+AddClass WolffStarWars_Republic501P2332Assault
+AddClass WolffStarWars_Republic501P2332Heavy
+AddClass WolffStarWars_Republic501P2332Marksman

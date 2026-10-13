@@ -1,0 +1,20 @@
+// Identity
+Name Kamino Security
+ShortName WolffStarWars_RepublicKaminoSecurity
+
+// Appearance
+TextColour DarkRed
+TeamColour 160 48 48
+Hat cloneKaminoHelmet
+Chest cloneKaminoArmor
+Legs cloneKaminoPants
+Shoes cloneKaminoBoots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_RepublicKaminoSecurityTrooper
+AddClass WolffStarWars_RepublicKaminoSecurityAssault
+AddClass WolffStarWars_RepublicKaminoSecurityHeavy
+AddClass WolffStarWars_RepublicKaminoSecurityMarksman

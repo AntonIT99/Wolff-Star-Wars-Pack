@@ -1,0 +1,13 @@
+// Identity
+Name Sith Lord
+ShortName WolffStarWars_SithLord
+Description Sith Lord with a lightsaber and full Sith robes.
+
+// Armour
+Hat SithHoodWithSithEyes
+Chest SithCoat
+Legs SithPants
+Shoes SithBootsPowered
+
+// Items
+AddItem LightSaberRed

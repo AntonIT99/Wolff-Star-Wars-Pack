@@ -1,0 +1,15 @@
+// Identity
+Name Torrent Company Assault - Phase I
+ShortName WolffStarWars_Republic501P1TorrentAssault
+Description Torrent Company Assault - Phase I with matching armor and a combat loadout.
+
+// Armour
+Hat clonetorrentHelmet
+Chest clonetorrentArmor
+Legs clonetorrentPants
+Shoes clonetorrentBoots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

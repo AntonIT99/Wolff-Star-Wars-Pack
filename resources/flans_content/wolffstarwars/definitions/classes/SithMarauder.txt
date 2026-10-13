@@ -1,0 +1,13 @@
+// Identity
+Name Sith Marauder
+ShortName WolffStarWars_SithMarauder
+Description Sith Marauder with a lightsaber and full Sith robes.
+
+// Armour
+Hat SithEyes
+Chest SithCoat
+Legs SithPants
+Shoes SithBootsPowered
+
+// Items
+AddItem LightSaberOrange

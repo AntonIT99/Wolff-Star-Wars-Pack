@@ -1,0 +1,11 @@
+// Identity
+Name Scout Droid
+ShortName WolffStarWars_SeparatistStandardScout
+Description Long-range support with an E-5S.
+
+// Armour
+Hat BattleDroidScout
+
+// Items
+AddItem blasterE-5s
+AddItem E-5Ammo 3

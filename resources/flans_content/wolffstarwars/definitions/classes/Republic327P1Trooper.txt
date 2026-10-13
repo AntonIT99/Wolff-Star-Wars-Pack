@@ -1,0 +1,15 @@
+// Identity
+Name 327th Star Corps Trooper - Phase I
+ShortName WolffStarWars_Republic327P1Trooper
+Description 327th Star Corps Trooper with a standard Republic combat loadout.
+
+// Armour
+Hat clone327Helmet
+Chest clone327Armor
+Legs clone327Pants
+Shoes clone327Boots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

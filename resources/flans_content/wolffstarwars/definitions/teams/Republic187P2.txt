@@ -1,0 +1,20 @@
+// Identity
+Name 187th Legion - Phase II
+ShortName WolffStarWars_Republic187P2
+
+// Appearance
+TextColour light_purple
+TeamColour 160 96 192
+Hat clone187IIHelmet
+Chest clone187IIArmor
+Legs clone187IIPants
+Shoes clone187IIBoots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_Republic187P2Trooper
+AddClass WolffStarWars_Republic187P2Assault
+AddClass WolffStarWars_Republic187P2Heavy
+AddClass WolffStarWars_Republic187P2Marksman

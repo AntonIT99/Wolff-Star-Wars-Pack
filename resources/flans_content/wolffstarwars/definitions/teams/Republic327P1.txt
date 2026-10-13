@@ -1,0 +1,20 @@
+// Identity
+Name 327th Star Corps - Phase I
+ShortName WolffStarWars_Republic327P1
+
+// Appearance
+TextColour Gold
+TeamColour 224 192 64
+Hat clone327Helmet
+Chest clone327Armor
+Legs clone327Pants
+Shoes clone327Boots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_Republic327P1Trooper
+AddClass WolffStarWars_Republic327P1Assault
+AddClass WolffStarWars_Republic327P1Heavy
+AddClass WolffStarWars_Republic327P1Marksman

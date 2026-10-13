@@ -1,0 +1,24 @@
+// Identity
+Name 41st Elite Corps - Phase I
+ShortName WolffStarWars_Republic41P1
+
+// Appearance
+TextColour DarkGreen
+TeamColour 64 128 64
+Hat clone41Helmet
+Chest clone41Armor
+Legs clone41Pants
+Shoes clone41Boots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_Republic41P1Trooper
+AddClass WolffStarWars_Republic41P1Assault
+AddClass WolffStarWars_Republic41P1Heavy
+AddClass WolffStarWars_Republic41P1Marksman
+AddClass WolffStarWars_Republic41P1GreenTrooper
+AddClass WolffStarWars_Republic41P1GreenAssault
+AddClass WolffStarWars_Republic41P1GreenHeavy
+AddClass WolffStarWars_Republic41P1GreenMarksman

@@ -1,0 +1,12 @@
+// Identity
+Name B1 Battle Droid
+ShortName WolffStarWars_SeparatistStandardBattleDroid
+Description General infantry with an E-5 and one thermal detonator.
+
+// Armour
+Hat BattleDroid
+
+// Items
+AddItem blasterE-5
+AddItem ThermalDetonator
+AddItem E-5Ammo 4

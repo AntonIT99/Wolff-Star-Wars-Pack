@@ -1,0 +1,13 @@
+// Identity
+Name Jedi Master - Purple
+ShortName WolffStarWars_JediMasterPurple
+Description Jedi Master - Purple with a lightsaber and full Jedi robes.
+
+// Armour
+Hat JediHood
+Chest JediCoat
+Legs JediPants
+Shoes JediBootsPowered
+
+// Items
+AddItem LightSaberPurple

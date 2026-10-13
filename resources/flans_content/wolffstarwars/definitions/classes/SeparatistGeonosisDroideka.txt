@@ -1,0 +1,12 @@
+// Identity
+Name Droideka
+ShortName WolffStarWars_SeparatistGeonosisDroideka
+Description Heavy defensive specialist with a droideka blaster and deflector shield.
+
+// Armour
+Hat droideka
+Chest droidekashield
+
+// Items
+AddItem droidekablaster
+AddItem E-5Ammo 8

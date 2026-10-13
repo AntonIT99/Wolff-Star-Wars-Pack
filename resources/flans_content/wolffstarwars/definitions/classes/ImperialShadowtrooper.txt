@@ -1,0 +1,15 @@
+// Identity
+Name Imperial Shadow Trooper
+ShortName WolffStarWars_ImperialShadowtrooper
+Description Imperial Shadow Trooper with matching armor and a combat loadout.
+
+// Armour
+Hat shadowtrooperHelmet
+Chest shadowtrooperArmor
+Legs shadowtrooperPants
+Shoes shadowtrooperBoots
+
+// Items
+AddItem blasterE-11
+AddItem E-11Ammo 4
+AddItem blasterStunAmmo

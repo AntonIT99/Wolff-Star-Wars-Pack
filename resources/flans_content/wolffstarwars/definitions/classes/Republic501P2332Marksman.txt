@@ -1,0 +1,16 @@
+// Identity
+Name 332nd Company Marksman - Phase II
+ShortName WolffStarWars_Republic501P2332Marksman
+Description 332nd Company Marksman - Phase II with matching armor and a combat loadout.
+
+// Armour
+Hat clone332IIHelmet
+Chest clone332Armor
+Legs clone332Pants
+Shoes clone332Boots
+
+// Items
+AddItem blasterDC-15X
+AddItem blasterDC-17
+AddItem Dc15Ammo 3
+AddItem Dc17Ammo 2

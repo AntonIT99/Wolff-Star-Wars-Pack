@@ -1,0 +1,15 @@
+// Identity
+Name Ghost Company Trooper - Phase I
+ShortName WolffStarWars_Republic212P1GhostTrooper
+Description Ghost Company Trooper - Phase I with matching armor and a combat loadout.
+
+// Armour
+Hat cloneghostHelmet
+Chest cloneghostArmor
+Legs cloneghostPants
+Shoes cloneghostBoots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

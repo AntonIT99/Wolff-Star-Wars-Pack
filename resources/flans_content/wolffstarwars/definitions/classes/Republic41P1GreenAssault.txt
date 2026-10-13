@@ -1,0 +1,15 @@
+// Identity
+Name Green Company Assault - Phase I
+ShortName WolffStarWars_Republic41P1GreenAssault
+Description Green Company Assault with a standard Republic combat loadout.
+
+// Armour
+Hat clonegreenHelmet
+Chest clonegreenArmor
+Legs clonegreenPants
+Shoes clonegreenBoots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

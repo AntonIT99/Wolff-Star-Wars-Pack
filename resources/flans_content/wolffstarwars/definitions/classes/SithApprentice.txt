@@ -1,0 +1,13 @@
+// Identity
+Name Sith Apprentice
+ShortName WolffStarWars_SithApprentice
+Description Sith Apprentice with a lightsaber and full Sith robes.
+
+// Armour
+Hat SithHood
+Chest SithCoat
+Legs SithPants
+Shoes SithBootsPowered
+
+// Items
+AddItem LightSaberRed

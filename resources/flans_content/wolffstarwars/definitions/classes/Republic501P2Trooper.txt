@@ -1,0 +1,15 @@
+// Identity
+Name Clone Trooper
+ShortName WolffStarWars_Republic501P2Trooper
+Description General infantry with a DC-15A and one thermal detonator.
+
+// Armour
+Hat clonetrooper501IIHelmet
+Chest clone501Armor
+Legs clone501Pants
+Shoes clone501Boots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

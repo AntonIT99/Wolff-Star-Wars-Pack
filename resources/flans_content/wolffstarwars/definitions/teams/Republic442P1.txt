@@ -1,0 +1,20 @@
+// Identity
+Name 442nd Siege Battalion - Phase I
+ShortName WolffStarWars_Republic442P1
+
+// Appearance
+TextColour Green
+TeamColour 96 192 64
+Hat clonegreenHelmet
+Chest clone442Armor
+Legs clone442Pants
+Shoes clone442Boots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_Republic442P1Trooper
+AddClass WolffStarWars_Republic442P1Assault
+AddClass WolffStarWars_Republic442P1Heavy
+AddClass WolffStarWars_Republic442P1Marksman

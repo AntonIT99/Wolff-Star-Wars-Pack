@@ -1,0 +1,25 @@
+// Identity
+Name 212th Attack Battalion - Phase I
+ShortName WolffStarWars_Republic212P1
+
+// Appearance
+TextColour Gold
+TeamColour 255 160 32
+Hat clone212Helmet
+Chest clone212Armor
+Legs clone212Pants
+Shoes clone212Boots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_Republic212P1Trooper
+AddClass WolffStarWars_Republic212P1Assault
+AddClass WolffStarWars_Republic212P1Heavy
+AddClass WolffStarWars_Republic212P1Marksman
+AddClass WolffStarWars_Republic212P1Cody
+AddClass WolffStarWars_Republic212P1GhostTrooper
+AddClass WolffStarWars_Republic212P1GhostAssault
+AddClass WolffStarWars_Republic212P1GhostHeavy
+AddClass WolffStarWars_Republic212P1GhostMarksman

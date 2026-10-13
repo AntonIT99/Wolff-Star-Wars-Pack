@@ -1,0 +1,15 @@
+// Identity
+Name 332nd Company Trooper - Phase II
+ShortName WolffStarWars_Republic501P2332Trooper
+Description 332nd Company Trooper - Phase II with matching armor and a combat loadout.
+
+// Armour
+Hat clone332IIHelmet
+Chest clone332Armor
+Legs clone332Pants
+Shoes clone332Boots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

@@ -1,0 +1,26 @@
+// Identity
+Name Separatist Alliance - Geonosis Droids
+ShortName WolffStarWars_SeparatistGeonosis
+
+// Appearance
+TextColour Red
+TeamColour 192 112 64
+Hat BattleDroidGeonosis
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_SeparatistGeonosisBattleDroid
+AddClass WolffStarWars_SeparatistGeonosisGrenadier
+AddClass WolffStarWars_SeparatistGeonosisScout
+AddClass WolffStarWars_SeparatistGeonosisDroideka
+AddClass WolffStarWars_SeparatistGeonosisCommander
+AddClass WolffStarWars_SeparatistGeonosisSergeant
+AddClass WolffStarWars_SeparatistGeonosisAATDriver
+AddClass WolffStarWars_SeparatistGeonosisMarine
+AddClass WolffStarWars_SeparatistGeonosisMarine2
+AddClass WolffStarWars_SeparatistGeonosisPilot
+AddClass WolffStarWars_SeparatistGeonosisPilot2
+AddClass WolffStarWars_SeparatistGeonosisSecurity
+AddClass WolffStarWars_SeparatistGeonosisSecurity2

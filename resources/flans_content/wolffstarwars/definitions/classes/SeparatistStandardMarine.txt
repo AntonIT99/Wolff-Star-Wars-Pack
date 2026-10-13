@@ -1,0 +1,12 @@
+// Identity
+Name Marine Droid - Variant 1
+ShortName WolffStarWars_SeparatistStandardMarine
+Description Marine Droid - Variant 1 with an E-5 and standard droid armor.
+
+// Armour
+Hat BattleDroidMarine
+
+// Items
+AddItem blasterE-5
+AddItem ThermalDetonator 2
+AddItem E-5Ammo 4

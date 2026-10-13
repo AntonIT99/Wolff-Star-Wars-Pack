@@ -1,0 +1,25 @@
+// Identity
+Name 501st Legion - Phase I
+ShortName WolffStarWars_Republic501P1
+
+// Appearance
+TextColour Blue
+TeamColour 64 128 255
+Hat clone501Helmet
+Chest clone501Armor
+Legs clone501Pants
+Shoes clone501Boots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_Republic501P1Trooper
+AddClass WolffStarWars_Republic501P1Assault
+AddClass WolffStarWars_Republic501P1Heavy
+AddClass WolffStarWars_Republic501P1Marksman
+AddClass WolffStarWars_Republic501P1Rex
+AddClass WolffStarWars_Republic501P1TorrentTrooper
+AddClass WolffStarWars_Republic501P1TorrentAssault
+AddClass WolffStarWars_Republic501P1TorrentHeavy
+AddClass WolffStarWars_Republic501P1TorrentMarksman

@@ -1,0 +1,18 @@
+// Identity
+Name Galactic Empire
+ShortName WolffStarWars_Imperial
+
+// Appearance
+TextColour DarkGray
+TeamColour 96 96 96
+Hat stormtrooperHelmet
+Chest stormtrooperArmor
+Legs stormtrooperPants
+Shoes stormtrooperBoots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_ImperialStormtrooper
+AddClass WolffStarWars_ImperialShadowtrooper

@@ -1,0 +1,17 @@
+// Identity
+Name Clone Commander - Phase I
+ShortName WolffStarWars_RepublicStandardP1Commander
+Description Clone Commander with Phase I armor and a rifle-plus-sidearm loadout.
+
+// Armour
+Hat clonecommanderHelmet
+Chest clonecommanderArmor
+Legs clonecommanderPants
+Shoes clonecommanderBoots
+
+// Items
+AddItem blasterDC-15A
+AddItem blasterDC-17
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4
+AddItem Dc17Ammo 2

@@ -1,0 +1,23 @@
+// Identity
+Name Jedi Order
+ShortName WolffStarWars_JediOrder
+
+// Appearance
+TextColour Blue
+TeamColour 64 128 255
+Hat JediHood
+Chest JediCoat
+Legs JediPants
+Shoes JediBootsPowered
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_JediKnightBlue
+AddClass WolffStarWars_JediKnightLightBlue
+AddClass WolffStarWars_JediKnightGreen
+AddClass WolffStarWars_JediKnightLightGreen
+AddClass WolffStarWars_JediMasterPurple
+AddClass WolffStarWars_JediTempleGuardYellow
+AddClass WolffStarWars_JediWayfarerWhite

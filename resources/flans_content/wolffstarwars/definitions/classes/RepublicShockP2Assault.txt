@@ -1,0 +1,15 @@
+// Identity
+Name Shock Troopers - Phase II Assault
+ShortName WolffStarWars_RepublicShockP2Assault
+Description Shock Troopers - Phase II Assault with a standard Republic combat loadout.
+
+// Armour
+Hat cloneShockIIHelmet
+Chest cloneShockIIArmor
+Legs cloneShockIIPants
+Shoes cloneShockIIBoots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

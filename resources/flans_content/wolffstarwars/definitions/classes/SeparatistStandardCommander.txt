@@ -1,0 +1,13 @@
+// Identity
+Name Commander Droid
+ShortName WolffStarWars_SeparatistStandardCommander
+Description Commander Droid with an E-5 and standard droid armor.
+
+// Armour
+Hat BattleDroidCommander
+
+// Items
+AddItem blasterE-5
+AddItem ThermalDetonator
+AddItem E-5Ammo 4
+AddItem blasterStunAmmo

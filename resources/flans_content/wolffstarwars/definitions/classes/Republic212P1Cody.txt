@@ -1,0 +1,17 @@
+// Identity
+Name Commander Cody - Phase I
+ShortName WolffStarWars_Republic212P1Cody
+Description Commander Cody with a DC-15A, DC-17 sidearm, and one thermal detonator.
+
+// Armour
+Hat codycloneHelmet
+Chest codycloneArmor
+Legs codyclonePants
+Shoes codycloneBoots
+
+// Items
+AddItem blasterDC-15A
+AddItem blasterDC-17
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4
+AddItem Dc17Ammo 2

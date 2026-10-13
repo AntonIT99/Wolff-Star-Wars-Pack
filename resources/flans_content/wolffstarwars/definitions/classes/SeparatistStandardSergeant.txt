@@ -1,0 +1,13 @@
+// Identity
+Name Sergeant Droid
+ShortName WolffStarWars_SeparatistStandardSergeant
+Description Sergeant Droid with an E-5 and standard droid armor.
+
+// Armour
+Hat BattleDroidSergeant
+
+// Items
+AddItem blasterE-5
+AddItem ThermalDetonator
+AddItem E-5Ammo 4
+AddItem blasterStunAmmo

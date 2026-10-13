@@ -1,0 +1,16 @@
+// Identity
+Name Clone Riot Trooper - Phase I
+ShortName WolffStarWars_RepublicStandardP1RiotTrooper
+Description Riot Trooper with a DC-17, riot shield, and stun ammunition.
+
+// Armour
+Hat cloneriotHelmet
+Chest cloneriotArmor
+Legs cloneriotPants
+Shoes cloneriotBoots
+
+// Items
+AddItem blasterDC-17
+AddItem CloneRiotShield
+AddItem Dc17Ammo 3
+AddItem blasterStunAmmo

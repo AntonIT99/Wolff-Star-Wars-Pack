@@ -1,0 +1,12 @@
+// Identity
+Name Security Droid - Variant 2
+ShortName WolffStarWars_SeparatistStandardSecurity2
+Description Security Droid - Variant 2 with an E-5 and standard droid armor.
+
+// Armour
+Hat BattleDroidSecurity2
+
+// Items
+AddItem blasterE-5
+AddItem E-5Ammo 5
+AddItem blasterStunAmmo

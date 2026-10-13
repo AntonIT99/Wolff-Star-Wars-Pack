@@ -1,0 +1,16 @@
+// Identity
+Name Clone Marksman
+ShortName WolffStarWars_Republic212P2Marksman
+Description Long-range support with a DC-15X and DC-17 sidearm.
+
+// Armour
+Hat clone212IIHelmet
+Chest clone212Armor
+Legs clone212Pants
+Shoes clone212Boots
+
+// Items
+AddItem blasterDC-15X
+AddItem blasterDC-17
+AddItem Dc15Ammo 3
+AddItem Dc17Ammo 2

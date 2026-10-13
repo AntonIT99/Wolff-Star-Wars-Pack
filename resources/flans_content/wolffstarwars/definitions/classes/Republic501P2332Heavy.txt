@@ -1,0 +1,16 @@
+// Identity
+Name 332nd Company Heavy Trooper - Phase II
+ShortName WolffStarWars_Republic501P2332Heavy
+Description 332nd Company Heavy Trooper - Phase II with matching armor and a combat loadout.
+
+// Armour
+Hat clone332IIHelmet
+Chest clone332Armor
+Legs clone332Pants
+Shoes clone332Boots
+
+// Items
+AddItem Z6rotaryblaster
+AddItem blasterDC-17
+AddItem Dc15Ammo 8
+AddItem Dc17Ammo 2

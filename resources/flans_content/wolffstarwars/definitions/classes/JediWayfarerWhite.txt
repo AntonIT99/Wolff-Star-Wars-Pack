@@ -1,0 +1,13 @@
+// Identity
+Name Jedi Wayfarer - White
+ShortName WolffStarWars_JediWayfarerWhite
+Description Jedi Wayfarer - White with a lightsaber and full Jedi robes.
+
+// Armour
+Hat JediHood
+Chest JediCoat
+Legs JediPants
+Shoes JediBootsPowered
+
+// Items
+AddItem LightSaberWhite
