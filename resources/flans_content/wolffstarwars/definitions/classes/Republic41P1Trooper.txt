@@ -1,0 +1,15 @@
+// Identity
+Name 41st Elite Corps Trooper - Phase I
+ShortName WolffStarWars_Republic41P1Trooper
+Description 41st Elite Corps Trooper with a standard Republic combat loadout.
+
+// Armour
+Hat clone41Helmet
+Chest clone41Armor
+Legs clone41Pants
+Shoes clone41Boots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

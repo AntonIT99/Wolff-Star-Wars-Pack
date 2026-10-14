@@ -1,0 +1,16 @@
+// Identity
+Name 327th Star Corps Marksman - Phase I
+ShortName WolffStarWars_Republic327P1Marksman
+Description 327th Star Corps Marksman with a standard Republic combat loadout.
+
+// Armour
+Hat clone327Helmet
+Chest clone327Armor
+Legs clone327Pants
+Shoes clone327Boots
+
+// Items
+AddItem blasterDC-15X
+AddItem blasterDC-17
+AddItem Dc15Ammo 3
+AddItem Dc17Ammo 2

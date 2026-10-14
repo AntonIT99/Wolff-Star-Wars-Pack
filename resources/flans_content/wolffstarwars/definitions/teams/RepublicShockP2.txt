@@ -1,0 +1,20 @@
+// Identity
+Name Shock Troopers - Phase II
+ShortName WolffStarWars_RepublicShockP2
+
+// Appearance
+TextColour Red
+TeamColour 224 64 64
+Hat cloneShockIIHelmet
+Chest cloneShockIIArmor
+Legs cloneShockIIPants
+Shoes cloneShockIIBoots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_RepublicShockP2Trooper
+AddClass WolffStarWars_RepublicShockP2Assault
+AddClass WolffStarWars_RepublicShockP2Heavy
+AddClass WolffStarWars_RepublicShockP2Marksman

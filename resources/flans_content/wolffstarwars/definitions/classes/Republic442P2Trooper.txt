@@ -1,0 +1,15 @@
+// Identity
+Name 442nd Siege Battalion Trooper - Phase II
+ShortName WolffStarWars_Republic442P2Trooper
+Description 442nd Siege Battalion Trooper with a standard Republic combat loadout.
+
+// Armour
+Hat clone442IIHelmet
+Chest clone442Armor
+Legs clone442Pants
+Shoes clone442Boots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

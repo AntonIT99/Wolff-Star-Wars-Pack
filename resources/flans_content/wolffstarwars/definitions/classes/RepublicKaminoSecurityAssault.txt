@@ -1,0 +1,15 @@
+// Identity
+Name Kamino Security Assault
+ShortName WolffStarWars_RepublicKaminoSecurityAssault
+Description Kamino Security Assault with a standard Republic combat loadout.
+
+// Armour
+Hat cloneKaminoHelmet
+Chest cloneKaminoArmor
+Legs cloneKaminoPants
+Shoes cloneKaminoBoots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

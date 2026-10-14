@@ -1,0 +1,15 @@
+// Identity
+Name Shock Troopers - Phase II Trooper
+ShortName WolffStarWars_RepublicShockP2Trooper
+Description Shock Troopers - Phase II Trooper with a standard Republic combat loadout.
+
+// Armour
+Hat cloneShockIIHelmet
+Chest cloneShockIIArmor
+Legs cloneShockIIPants
+Shoes cloneShockIIBoots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

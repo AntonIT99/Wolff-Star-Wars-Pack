@@ -1,5 +1,5 @@
 // Identity
-Name White Lightsaber
+Name Yellow Lightsaber
 ShortName LightSaberYellow
 
 // Item and rendering

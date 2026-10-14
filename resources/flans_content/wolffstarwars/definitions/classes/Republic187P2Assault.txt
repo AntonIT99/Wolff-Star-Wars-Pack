@@ -1,0 +1,15 @@
+// Identity
+Name 187th Legion - Phase II Assault
+ShortName WolffStarWars_Republic187P2Assault
+Description 187th Legion - Phase II Assault with a standard Republic combat loadout.
+
+// Armour
+Hat clone187IIHelmet
+Chest clone187IIArmor
+Legs clone187IIPants
+Shoes clone187IIBoots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

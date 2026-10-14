@@ -1,0 +1,15 @@
+// Identity
+Name Kamino Security Trooper
+ShortName WolffStarWars_RepublicKaminoSecurityTrooper
+Description Kamino Security Trooper with a standard Republic combat loadout.
+
+// Armour
+Hat cloneKaminoHelmet
+Chest cloneKaminoArmor
+Legs cloneKaminoPants
+Shoes cloneKaminoBoots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

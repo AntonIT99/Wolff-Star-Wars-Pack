@@ -1,0 +1,18 @@
+// Identity
+Name ARC Lieutenant - Phase I
+ShortName WolffStarWars_RepublicStandardP1ARCLieutenant
+Description ARC Lieutenant with Phase I armor and a rifle-plus-sidearm loadout.
+
+// Armour
+Hat clonelieutnantARCHelmet
+Chest clonelieutnantARCArmor
+Legs clonelieutnantARCPants
+Shoes clonelieutnantARCBoots
+
+// Items
+AddItem blasterDC-15S
+AddItem blasterDC-17
+AddItem blasterDC-17
+AddItem ThermalDetonator 2
+AddItem Dc15Ammo 4
+AddItem Dc17Ammo 4

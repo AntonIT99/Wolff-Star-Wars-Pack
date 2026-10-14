@@ -1,5 +1,5 @@
 // Identity
-Name Jedi Boots
+Name Jedi Hood
 ShortName JediHood
 
 // Item and rendering

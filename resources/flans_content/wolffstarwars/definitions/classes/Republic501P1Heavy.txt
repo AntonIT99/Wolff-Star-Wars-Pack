@@ -1,0 +1,16 @@
+// Identity
+Name Heavy Trooper
+ShortName WolffStarWars_Republic501P1Heavy
+Description Suppression specialist with a Z-6 rotary blaster and DC-17 sidearm.
+
+// Armour
+Hat clone501Helmet
+Chest clone501Armor
+Legs clone501Pants
+Shoes clone501Boots
+
+// Items
+AddItem Z6rotaryblaster
+AddItem blasterDC-17
+AddItem Dc15Ammo 8
+AddItem Dc17Ammo 2

@@ -1,0 +1,15 @@
+// Identity
+Name Clone Assault
+ShortName WolffStarWars_Republic501P1Assault
+Description Close-range infantry with a DC-15S and three thermal detonators.
+
+// Armour
+Hat clone501Helmet
+Chest clone501Armor
+Legs clone501Pants
+Shoes clone501Boots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

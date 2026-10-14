@@ -1,0 +1,15 @@
+// Identity
+Name Stormtrooper
+ShortName WolffStarWars_ImperialStormtrooper
+Description Stormtrooper with matching armor and a combat loadout.
+
+// Armour
+Hat stormtrooperHelmet
+Chest stormtrooperArmor
+Legs stormtrooperPants
+Shoes stormtrooperBoots
+
+// Items
+AddItem blasterE-11
+AddItem ThermalDetonator
+AddItem E-11Ammo 4

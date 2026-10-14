@@ -1,0 +1,21 @@
+// Identity
+Name Galactic Republic - Phase II
+ShortName WolffStarWars_RepublicStandardP2
+
+// Appearance
+TextColour Gray
+TeamColour 192 192 192
+Hat clonetrooperIIHelmet
+Chest clonetrooperArmor
+Legs clonetrooperPants
+Shoes clonetrooperBoots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_RepublicStandardP2Trooper
+AddClass WolffStarWars_RepublicStandardP2Assault
+AddClass WolffStarWars_RepublicStandardP2Heavy
+AddClass WolffStarWars_RepublicStandardP2Marksman
+AddClass WolffStarWars_RepublicStandardP2ShadowTrooper

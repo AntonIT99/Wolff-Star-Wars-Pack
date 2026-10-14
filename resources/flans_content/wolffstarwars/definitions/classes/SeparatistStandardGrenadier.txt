@@ -1,0 +1,12 @@
+// Identity
+Name Grenadier Droid
+ShortName WolffStarWars_SeparatistStandardGrenadier
+Description Assault infantry with an E-5 and three thermal detonators.
+
+// Armour
+Hat BattleDroidGrenade
+
+// Items
+AddItem blasterE-5
+AddItem ThermalDetonator 3
+AddItem E-5Ammo 4

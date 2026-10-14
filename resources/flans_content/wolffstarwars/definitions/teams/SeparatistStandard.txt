@@ -1,0 +1,26 @@
+// Identity
+Name Separatist Alliance - Standard Droids
+ShortName WolffStarWars_SeparatistStandard
+
+// Appearance
+TextColour DarkRed
+TeamColour 192 64 64
+Hat BattleDroid
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_SeparatistStandardBattleDroid
+AddClass WolffStarWars_SeparatistStandardGrenadier
+AddClass WolffStarWars_SeparatistStandardScout
+AddClass WolffStarWars_SeparatistStandardDroideka
+AddClass WolffStarWars_SeparatistStandardCommander
+AddClass WolffStarWars_SeparatistStandardSergeant
+AddClass WolffStarWars_SeparatistStandardAATDriver
+AddClass WolffStarWars_SeparatistStandardMarine
+AddClass WolffStarWars_SeparatistStandardMarine2
+AddClass WolffStarWars_SeparatistStandardPilot
+AddClass WolffStarWars_SeparatistStandardPilot2
+AddClass WolffStarWars_SeparatistStandardSecurity
+AddClass WolffStarWars_SeparatistStandardSecurity2

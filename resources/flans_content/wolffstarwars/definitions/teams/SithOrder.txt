@@ -1,0 +1,21 @@
+// Identity
+Name Sith Order
+ShortName WolffStarWars_SithOrder
+
+// Appearance
+TextColour DarkRed
+TeamColour 192 32 32
+Hat SithHood
+Chest SithCoat
+Legs SithPants
+Shoes SithBootsPowered
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_SithApprentice
+AddClass WolffStarWars_SithWarrior
+AddClass WolffStarWars_SithLord
+AddClass WolffStarWars_SithMarauder
+AddClass WolffStarWars_SithAssassin

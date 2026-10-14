@@ -1,0 +1,13 @@
+// Identity
+Name Sith Warrior
+ShortName WolffStarWars_SithWarrior
+Description Sith Warrior with a lightsaber and full Sith robes.
+
+// Armour
+Hat SithEyes
+Chest SithCoat
+Legs SithPants
+Shoes SithBootsPowered
+
+// Items
+AddItem LightSaberRed

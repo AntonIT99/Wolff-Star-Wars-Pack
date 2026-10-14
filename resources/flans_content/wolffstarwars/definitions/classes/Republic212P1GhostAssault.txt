@@ -1,0 +1,15 @@
+// Identity
+Name Ghost Company Assault - Phase I
+ShortName WolffStarWars_Republic212P1GhostAssault
+Description Ghost Company Assault - Phase I with matching armor and a combat loadout.
+
+// Armour
+Hat cloneghostHelmet
+Chest cloneghostArmor
+Legs cloneghostPants
+Shoes cloneghostBoots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

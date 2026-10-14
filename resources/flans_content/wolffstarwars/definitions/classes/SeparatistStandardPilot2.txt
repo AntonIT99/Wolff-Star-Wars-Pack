@@ -1,0 +1,11 @@
+// Identity
+Name Pilot Droid - Variant 2
+ShortName WolffStarWars_SeparatistStandardPilot2
+Description Pilot Droid - Variant 2 with an E-5 and standard droid armor.
+
+// Armour
+Hat BattleDroidPilot2
+
+// Items
+AddItem blasterE-5
+AddItem E-5Ammo 2

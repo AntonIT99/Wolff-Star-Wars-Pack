@@ -1,0 +1,12 @@
+// Identity
+Name Marine Droid - Variant 2
+ShortName WolffStarWars_SeparatistGeonosisMarine2
+Description Marine Droid - Variant 2 with an E-5 and Geonosis droid armor.
+
+// Armour
+Hat BattleDroidMarine2Geonosis
+
+// Items
+AddItem blasterE-5
+AddItem ThermalDetonator 2
+AddItem E-5Ammo 4

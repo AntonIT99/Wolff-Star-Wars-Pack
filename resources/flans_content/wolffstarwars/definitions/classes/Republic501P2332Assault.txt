@@ -1,0 +1,15 @@
+// Identity
+Name 332nd Company Assault - Phase II
+ShortName WolffStarWars_Republic501P2332Assault
+Description 332nd Company Assault - Phase II with matching armor and a combat loadout.
+
+// Armour
+Hat clone332IIHelmet
+Chest clone332Armor
+Legs clone332Pants
+Shoes clone332Boots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

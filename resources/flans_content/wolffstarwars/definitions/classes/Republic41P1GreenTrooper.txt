@@ -1,0 +1,15 @@
+// Identity
+Name Green Company Trooper - Phase I
+ShortName WolffStarWars_Republic41P1GreenTrooper
+Description Green Company Trooper with a standard Republic combat loadout.
+
+// Armour
+Hat clonegreenHelmet
+Chest clonegreenArmor
+Legs clonegreenPants
+Shoes clonegreenBoots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

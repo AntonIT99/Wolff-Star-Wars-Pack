@@ -1,0 +1,16 @@
+// Identity
+Name Green Company Heavy Trooper - Phase I
+ShortName WolffStarWars_Republic41P1GreenHeavy
+Description Green Company Heavy Trooper with a standard Republic combat loadout.
+
+// Armour
+Hat clonegreenHelmet
+Chest clonegreenArmor
+Legs clonegreenPants
+Shoes clonegreenBoots
+
+// Items
+AddItem Z6rotaryblaster
+AddItem blasterDC-17
+AddItem Dc15Ammo 8
+AddItem Dc17Ammo 2

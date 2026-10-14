@@ -1,0 +1,16 @@
+// Identity
+Name 187th Legion - Phase II Marksman
+ShortName WolffStarWars_Republic187P2Marksman
+Description 187th Legion - Phase II Marksman with a standard Republic combat loadout.
+
+// Armour
+Hat clone187IIHelmet
+Chest clone187IIArmor
+Legs clone187IIPants
+Shoes clone187IIBoots
+
+// Items
+AddItem blasterDC-15X
+AddItem blasterDC-17
+AddItem Dc15Ammo 3
+AddItem Dc17Ammo 2

@@ -1,0 +1,17 @@
+// Identity
+Name Clone Lieutenant - Phase I
+ShortName WolffStarWars_RepublicStandardP1Lieutenant
+Description Clone Lieutenant with Phase I armor and a rifle-plus-sidearm loadout.
+
+// Armour
+Hat clonelieutnantHelmet
+Chest clonelieutnantArmor
+Legs clonelieutnantPants
+Shoes clonelieutnantBoots
+
+// Items
+AddItem blasterDC-15A
+AddItem blasterDC-17
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4
+AddItem Dc17Ammo 2

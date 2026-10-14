@@ -1,0 +1,11 @@
+// Identity
+Name Pilot Droid - Variant 1
+ShortName WolffStarWars_SeparatistGeonosisPilot
+Description Pilot Droid - Variant 1 with an E-5 and Geonosis droid armor.
+
+// Armour
+Hat BattleDroidPilotGeonosis
+
+// Items
+AddItem blasterE-5
+AddItem E-5Ammo 2

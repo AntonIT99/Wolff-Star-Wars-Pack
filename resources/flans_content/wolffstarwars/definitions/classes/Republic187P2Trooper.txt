@@ -1,0 +1,15 @@
+// Identity
+Name 187th Legion - Phase II Trooper
+ShortName WolffStarWars_Republic187P2Trooper
+Description 187th Legion - Phase II Trooper with a standard Republic combat loadout.
+
+// Armour
+Hat clone187IIHelmet
+Chest clone187IIArmor
+Legs clone187IIPants
+Shoes clone187IIBoots
+
+// Items
+AddItem blasterDC-15A
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4

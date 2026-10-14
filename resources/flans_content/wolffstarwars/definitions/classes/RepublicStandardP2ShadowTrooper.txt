@@ -1,0 +1,17 @@
+// Identity
+Name Clone Shadow Trooper - Phase II
+ShortName WolffStarWars_RepublicStandardP2ShadowTrooper
+Description Clone Shadow Trooper - Phase II with matching armor and a combat loadout.
+
+// Armour
+Hat cloneShadowIIHelmet
+Chest cloneShadowArmor
+Legs cloneShadowPants
+Shoes cloneShadowBoots
+
+// Items
+AddItem blasterDC-19
+AddItem blasterDC-17
+AddItem Dc15Ammo 4
+AddItem Dc19invisibleAmmo 2
+AddItem Dc17Ammo 2

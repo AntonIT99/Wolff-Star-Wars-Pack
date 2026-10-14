@@ -1,0 +1,11 @@
+// Identity
+Name AAT Driver Droid
+ShortName WolffStarWars_SeparatistGeonosisAATDriver
+Description AAT Driver Droid with an E-5 and Geonosis droid armor.
+
+// Armour
+Hat BattleDroidAATDriverGeonosis
+
+// Items
+AddItem blasterE-5
+AddItem E-5Ammo 2

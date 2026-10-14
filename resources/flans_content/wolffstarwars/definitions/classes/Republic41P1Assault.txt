@@ -1,0 +1,15 @@
+// Identity
+Name 41st Elite Corps Assault - Phase I
+ShortName WolffStarWars_Republic41P1Assault
+Description 41st Elite Corps Assault with a standard Republic combat loadout.
+
+// Armour
+Hat clone41Helmet
+Chest clone41Armor
+Legs clone41Pants
+Shoes clone41Boots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

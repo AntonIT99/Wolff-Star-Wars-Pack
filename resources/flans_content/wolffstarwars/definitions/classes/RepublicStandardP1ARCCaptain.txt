@@ -1,0 +1,18 @@
+// Identity
+Name ARC Captain - Phase I
+ShortName WolffStarWars_RepublicStandardP1ARCCaptain
+Description ARC Captain with Phase I armor and a rifle-plus-sidearm loadout.
+
+// Armour
+Hat clonecaptainARCHelmet
+Chest clonecaptainARCArmor
+Legs clonecaptainARCPants
+Shoes clonecaptainARCBoots
+
+// Items
+AddItem blasterDC-15S
+AddItem blasterDC-17
+AddItem blasterDC-17
+AddItem ThermalDetonator 2
+AddItem Dc15Ammo 4
+AddItem Dc17Ammo 4

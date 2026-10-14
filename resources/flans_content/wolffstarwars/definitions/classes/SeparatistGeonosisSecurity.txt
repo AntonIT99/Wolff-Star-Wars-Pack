@@ -1,0 +1,12 @@
+// Identity
+Name Security Droid - Variant 1
+ShortName WolffStarWars_SeparatistGeonosisSecurity
+Description Security Droid - Variant 1 with an E-5 and Geonosis droid armor.
+
+// Armour
+Hat BattleDroidSecurityGeonosis
+
+// Items
+AddItem blasterE-5
+AddItem E-5Ammo 5
+AddItem blasterStunAmmo

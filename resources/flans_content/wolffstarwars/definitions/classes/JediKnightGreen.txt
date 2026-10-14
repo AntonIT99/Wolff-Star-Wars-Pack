@@ -1,0 +1,13 @@
+// Identity
+Name Jedi Knight - Green
+ShortName WolffStarWars_JediKnightGreen
+Description Jedi Knight - Green with a lightsaber and full Jedi robes.
+
+// Armour
+Hat JediHood
+Chest JediCoat
+Legs JediPants
+Shoes JediBootsPowered
+
+// Items
+AddItem LightSaberGreen

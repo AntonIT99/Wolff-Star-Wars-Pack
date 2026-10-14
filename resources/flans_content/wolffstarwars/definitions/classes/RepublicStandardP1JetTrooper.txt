@@ -1,0 +1,17 @@
+// Identity
+Name Jet Trooper - Phase I
+ShortName WolffStarWars_RepublicStandardP1JetTrooper
+Description Jet Trooper with Phase I armor and a rifle-plus-sidearm loadout.
+
+// Armour
+Hat JettrooperHelmet
+Chest JettrooperArmor
+Legs JettrooperPants
+Shoes HighPoweredBoots
+
+// Items
+AddItem blasterDC-15S
+AddItem blasterDC-17
+AddItem ThermalDetonator 2
+AddItem Dc15Ammo 4
+AddItem Dc17Ammo 2

@@ -1,0 +1,15 @@
+// Identity
+Name 442nd Siege Battalion Assault - Phase II
+ShortName WolffStarWars_Republic442P2Assault
+Description 442nd Siege Battalion Assault with a standard Republic combat loadout.
+
+// Armour
+Hat clone442IIHelmet
+Chest clone442Armor
+Legs clone442Pants
+Shoes clone442Boots
+
+// Items
+AddItem blasterDC-15S
+AddItem ThermalDetonator 3
+AddItem Dc15Ammo 4

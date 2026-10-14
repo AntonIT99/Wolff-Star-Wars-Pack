@@ -1,0 +1,11 @@
+// Identity
+Name Scout Droid
+ShortName WolffStarWars_SeparatistGeonosisScout
+Description Long-range support with an E-5S.
+
+// Armour
+Hat BattleDroidScoutGeonosis
+
+// Items
+AddItem blasterE-5s
+AddItem E-5Ammo 3

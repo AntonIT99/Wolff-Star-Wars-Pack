@@ -1,0 +1,17 @@
+// Identity
+Name Clone Sergeant - Phase I
+ShortName WolffStarWars_RepublicStandardP1Sergeant
+Description Clone Sergeant with Phase I armor and a rifle-plus-sidearm loadout.
+
+// Armour
+Hat clonesergentHelmet
+Chest clonesergentArmor
+Legs clonesergentPants
+Shoes clonesergentBoots
+
+// Items
+AddItem blasterDC-15A
+AddItem blasterDC-17
+AddItem ThermalDetonator
+AddItem Dc15Ammo 4
+AddItem Dc17Ammo 2

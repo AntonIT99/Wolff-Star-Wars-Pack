@@ -1,5 +1,5 @@
 // Identity
-Name Sith Boots
+Name Sith Hood
 ShortName SithHood
 
 // Item and rendering

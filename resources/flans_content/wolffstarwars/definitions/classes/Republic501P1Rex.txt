@@ -1,0 +1,16 @@
+// Identity
+Name Captain Rex - Phase I
+ShortName WolffStarWars_Republic501P1Rex
+Description Captain Rex with two DC-17 blasters and one thermal detonator.
+
+// Armour
+Hat rexcloneHelmet
+Chest rexcloneArmor
+Legs rexclonePants
+Shoes rexcloneBoots
+
+// Items
+AddItem blasterDC-17
+AddItem blasterDC-17
+AddItem ThermalDetonator
+AddItem Dc17Ammo 4

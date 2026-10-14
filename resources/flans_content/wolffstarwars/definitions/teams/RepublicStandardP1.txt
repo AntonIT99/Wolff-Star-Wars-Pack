@@ -1,0 +1,29 @@
+// Identity
+Name Galactic Republic - Phase I
+ShortName WolffStarWars_RepublicStandardP1
+
+// Appearance
+TextColour Gray
+TeamColour 192 192 192
+Hat clonetrooperHelmet
+Chest clonetrooperArmor
+Legs clonetrooperPants
+Shoes clonetrooperBoots
+
+// Rounds
+AllowedForRoundsGenerator False
+
+// Classes
+AddClass WolffStarWars_RepublicStandardP1Trooper
+AddClass WolffStarWars_RepublicStandardP1Assault
+AddClass WolffStarWars_RepublicStandardP1Heavy
+AddClass WolffStarWars_RepublicStandardP1Marksman
+AddClass WolffStarWars_RepublicStandardP1ARCLieutenant
+AddClass WolffStarWars_RepublicStandardP1ARCCaptain
+AddClass WolffStarWars_RepublicStandardP1JetTrooper
+AddClass WolffStarWars_RepublicStandardP1Sergeant
+AddClass WolffStarWars_RepublicStandardP1Lieutenant
+AddClass WolffStarWars_RepublicStandardP1Captain
+AddClass WolffStarWars_RepublicStandardP1Commander
+AddClass WolffStarWars_RepublicStandardP1ShadowTrooper
+AddClass WolffStarWars_RepublicStandardP1RiotTrooper
