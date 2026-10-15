@@ -30,7 +30,11 @@ Damage 1
 
 // Optics
 Scope scopesw
-ZoomLevel 8.0
+ZoomLevel 20.0
+HasVariableZoom True
+MinZoom 2
+MaxZoom 20
+ZoomAugment 0.5
 FOVZoomLevel 1.25
 
 // Attachments
