@@ -1,6 +1,7 @@
 // Identity
 Name Kamino Security Marksman
 ShortName WolffStarWars_RepublicKaminoSecurityMarksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description Kamino Security Marksman with a standard Republic combat loadout.
 
 // Armour

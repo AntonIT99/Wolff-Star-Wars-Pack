@@ -1,6 +1,7 @@
 // Identity
 Name Clone Riot Trooper - Phase I
 ShortName WolffStarWars_RepublicStandardP1RiotTrooper
+SkinOverride wolffstarwars_clone_trooper_1
 Description Riot Trooper with a DC-17, riot shield, and stun ammunition.
 
 // Armour

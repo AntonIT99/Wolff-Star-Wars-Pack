@@ -1,6 +1,7 @@
 // Identity
 Name 442nd Siege Battalion Heavy Trooper - Phase I
 ShortName WolffStarWars_Republic442P1Heavy
+SkinOverride wolffstarwars_clone_trooper_1
 Description 442nd Siege Battalion Heavy Trooper with a standard Republic combat loadout.
 
 // Armour

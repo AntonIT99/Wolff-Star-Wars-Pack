@@ -1,6 +1,7 @@
 // Identity
 Name Clone Shadow Trooper - Phase I
 ShortName WolffStarWars_RepublicStandardP1ShadowTrooper
+SkinOverride wolffstarwars_clone_trooper_1
 Description Clone Shadow Trooper - Phase I with matching armor and a combat loadout.
 
 // Armour

@@ -1,6 +1,7 @@
 // Identity
 Name 442nd Siege Battalion Trooper - Phase II
 ShortName WolffStarWars_Republic442P2Trooper
+SkinOverride wolffstarwars_clone_trooper_1
 Description 442nd Siege Battalion Trooper with a standard Republic combat loadout.
 
 // Armour

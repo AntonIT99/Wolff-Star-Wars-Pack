@@ -1,6 +1,7 @@
 // Identity
 Name 41st Elite Corps Heavy Trooper - Phase I
 ShortName WolffStarWars_Republic41P1Heavy
+SkinOverride wolffstarwars_clone_trooper_1
 Description 41st Elite Corps Heavy Trooper with a standard Republic combat loadout.
 
 // Armour

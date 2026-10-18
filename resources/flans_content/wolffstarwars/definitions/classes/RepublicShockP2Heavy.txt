@@ -1,6 +1,7 @@
 // Identity
 Name Shock Troopers - Phase II Heavy Trooper
 ShortName WolffStarWars_RepublicShockP2Heavy
+SkinOverride wolffstarwars_clone_trooper_1
 Description Shock Troopers - Phase II Heavy Trooper with a standard Republic combat loadout.
 
 // Armour

@@ -1,6 +1,7 @@
 // Identity
 Name 187th Legion - Phase II Marksman
 ShortName WolffStarWars_Republic187P2Marksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description 187th Legion - Phase II Marksman with a standard Republic combat loadout.
 
 // Armour

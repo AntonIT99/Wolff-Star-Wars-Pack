@@ -1,6 +1,7 @@
 // Identity
 Name Green Company Marksman - Phase I
 ShortName WolffStarWars_Republic41P1GreenMarksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description Green Company Marksman with a standard Republic combat loadout.
 
 // Armour

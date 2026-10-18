@@ -1,6 +1,7 @@
 // Identity
 Name Green Company Trooper - Phase I
 ShortName WolffStarWars_Republic41P1GreenTrooper
+SkinOverride wolffstarwars_clone_trooper_1
 Description Green Company Trooper with a standard Republic combat loadout.
 
 // Armour

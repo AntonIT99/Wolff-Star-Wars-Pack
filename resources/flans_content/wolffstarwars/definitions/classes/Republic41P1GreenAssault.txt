@@ -1,6 +1,7 @@
 // Identity
 Name Green Company Assault - Phase I
 ShortName WolffStarWars_Republic41P1GreenAssault
+SkinOverride wolffstarwars_clone_trooper_1
 Description Green Company Assault with a standard Republic combat loadout.
 
 // Armour

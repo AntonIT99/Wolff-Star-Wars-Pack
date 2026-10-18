@@ -1,6 +1,7 @@
 // Identity
 Name Clone Shadow Trooper - Phase II
 ShortName WolffStarWars_RepublicStandardP2ShadowTrooper
+SkinOverride wolffstarwars_clone_trooper_1
 Description Clone Shadow Trooper - Phase II with matching armor and a combat loadout.
 
 // Armour

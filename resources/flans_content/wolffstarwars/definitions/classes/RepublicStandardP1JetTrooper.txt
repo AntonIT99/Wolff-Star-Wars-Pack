@@ -1,6 +1,7 @@
 // Identity
 Name Jet Trooper - Phase I
 ShortName WolffStarWars_RepublicStandardP1JetTrooper
+SkinOverride wolffstarwars_clone_trooper_1
 Description Jet Trooper with Phase I armor and a rifle-plus-sidearm loadout.
 
 // Armour

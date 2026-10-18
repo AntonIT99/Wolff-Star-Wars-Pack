@@ -1,6 +1,7 @@
 // Identity
 Name Kamino Security Heavy Trooper
 ShortName WolffStarWars_RepublicKaminoSecurityHeavy
+SkinOverride wolffstarwars_clone_trooper_1
 Description Kamino Security Heavy Trooper with a standard Republic combat loadout.
 
 // Armour

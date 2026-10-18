@@ -1,6 +1,7 @@
 // Identity
 Name Shock Troopers - Phase II Marksman
 ShortName WolffStarWars_RepublicShockP2Marksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description Shock Troopers - Phase II Marksman with a standard Republic combat loadout.
 
 // Armour

@@ -1,6 +1,7 @@
 // Identity
 Name Ghost Company Heavy Trooper - Phase I
 ShortName WolffStarWars_Republic212P1GhostHeavy
+SkinOverride wolffstarwars_clone_trooper_1
 Description Ghost Company Heavy Trooper - Phase I with matching armor and a combat loadout.
 
 // Armour

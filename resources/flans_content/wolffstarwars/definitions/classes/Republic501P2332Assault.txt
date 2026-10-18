@@ -1,6 +1,7 @@
 // Identity
 Name 332nd Company Assault - Phase II
 ShortName WolffStarWars_Republic501P2332Assault
+SkinOverride wolffstarwars_clone_trooper_1
 Description 332nd Company Assault - Phase II with matching armor and a combat loadout.
 
 // Armour

@@ -1,6 +1,7 @@
 // Identity
 Name 187th Legion - Phase II Heavy Trooper
 ShortName WolffStarWars_Republic187P2Heavy
+SkinOverride wolffstarwars_clone_trooper_1
 Description 187th Legion - Phase II Heavy Trooper with a standard Republic combat loadout.
 
 // Armour
