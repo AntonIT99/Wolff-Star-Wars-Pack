@@ -1,6 +1,7 @@
 // Identity
 Name 327th Star Corps Heavy Trooper - Phase I
 ShortName WolffStarWars_Republic327P1Heavy
+SkinOverride wolffstarwars_clone_trooper_1
 Description 327th Star Corps Heavy Trooper with a standard Republic combat loadout.
 
 // Armour

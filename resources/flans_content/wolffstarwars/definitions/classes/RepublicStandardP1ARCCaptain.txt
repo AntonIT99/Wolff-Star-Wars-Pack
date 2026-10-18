@@ -1,6 +1,7 @@
 // Identity
 Name ARC Captain - Phase I
 ShortName WolffStarWars_RepublicStandardP1ARCCaptain
+SkinOverride wolffstarwars_clone_trooper_1
 Description ARC Captain with Phase I armor and a rifle-plus-sidearm loadout.
 
 // Armour

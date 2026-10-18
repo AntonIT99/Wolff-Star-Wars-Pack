@@ -1,6 +1,7 @@
 // Identity
 Name 327th Star Corps Marksman - Phase I
 ShortName WolffStarWars_Republic327P1Marksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description 327th Star Corps Marksman with a standard Republic combat loadout.
 
 // Armour

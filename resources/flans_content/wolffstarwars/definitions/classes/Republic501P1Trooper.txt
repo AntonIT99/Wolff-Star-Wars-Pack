@@ -1,6 +1,7 @@
 // Identity
 Name Clone Trooper
 ShortName WolffStarWars_Republic501P1Trooper
+SkinOverride wolffstarwars_clone_trooper_1
 Description General infantry with a DC-15A and one thermal detonator.
 
 // Armour

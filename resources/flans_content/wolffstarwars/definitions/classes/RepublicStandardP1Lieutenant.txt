@@ -1,6 +1,7 @@
 // Identity
 Name Clone Lieutenant - Phase I
 ShortName WolffStarWars_RepublicStandardP1Lieutenant
+SkinOverride wolffstarwars_clone_trooper_1
 Description Clone Lieutenant with Phase I armor and a rifle-plus-sidearm loadout.
 
 // Armour

@@ -1,6 +1,7 @@
 // Identity
 Name Heavy Trooper
 ShortName WolffStarWars_RepublicStandardP2Heavy
+SkinOverride wolffstarwars_clone_trooper_1
 Description Suppression specialist with a Z-6 rotary blaster and DC-17 sidearm.
 
 // Armour

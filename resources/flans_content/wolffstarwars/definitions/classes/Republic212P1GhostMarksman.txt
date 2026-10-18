@@ -1,6 +1,7 @@
 // Identity
 Name Ghost Company Marksman - Phase I
 ShortName WolffStarWars_Republic212P1GhostMarksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description Ghost Company Marksman - Phase I with matching armor and a combat loadout.
 
 // Armour

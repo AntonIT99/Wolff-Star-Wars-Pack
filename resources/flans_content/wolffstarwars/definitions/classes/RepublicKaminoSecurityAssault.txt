@@ -1,6 +1,7 @@
 // Identity
 Name Kamino Security Assault
 ShortName WolffStarWars_RepublicKaminoSecurityAssault
+SkinOverride wolffstarwars_clone_trooper_1
 Description Kamino Security Assault with a standard Republic combat loadout.
 
 // Armour

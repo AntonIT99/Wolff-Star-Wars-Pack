@@ -1,6 +1,7 @@
 // Identity
 Name Clone Assault
 ShortName WolffStarWars_Republic501P1Assault
+SkinOverride wolffstarwars_clone_trooper_1
 Description Close-range infantry with a DC-15S and three thermal detonators.
 
 // Armour

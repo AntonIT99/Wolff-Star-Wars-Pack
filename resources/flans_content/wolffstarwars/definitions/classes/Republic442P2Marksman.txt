@@ -1,6 +1,7 @@
 // Identity
 Name 442nd Siege Battalion Marksman - Phase II
 ShortName WolffStarWars_Republic442P2Marksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description 442nd Siege Battalion Marksman with a standard Republic combat loadout.
 
 // Armour

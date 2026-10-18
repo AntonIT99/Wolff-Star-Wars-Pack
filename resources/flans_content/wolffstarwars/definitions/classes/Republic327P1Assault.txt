@@ -1,6 +1,7 @@
 // Identity
 Name 327th Star Corps Assault - Phase I
 ShortName WolffStarWars_Republic327P1Assault
+SkinOverride wolffstarwars_clone_trooper_1
 Description 327th Star Corps Assault with a standard Republic combat loadout.
 
 // Armour

@@ -1,6 +1,7 @@
 // Identity
 Name Torrent Company Trooper - Phase I
 ShortName WolffStarWars_Republic501P1TorrentTrooper
+SkinOverride wolffstarwars_clone_trooper_1
 Description Torrent Company Trooper - Phase I with matching armor and a combat loadout.
 
 // Armour

@@ -1,6 +1,7 @@
 // Identity
 Name Torrent Company Assault - Phase I
 ShortName WolffStarWars_Republic501P1TorrentAssault
+SkinOverride wolffstarwars_clone_trooper_1
 Description Torrent Company Assault - Phase I with matching armor and a combat loadout.
 
 // Armour

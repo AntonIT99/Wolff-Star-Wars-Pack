@@ -1,6 +1,7 @@
 // Identity
 Name Clone Marksman
 ShortName WolffStarWars_Republic212P2Marksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description Long-range support with a DC-15X and DC-17 sidearm.
 
 // Armour

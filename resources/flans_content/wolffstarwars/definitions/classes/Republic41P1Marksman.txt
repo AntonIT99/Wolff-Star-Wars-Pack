@@ -1,6 +1,7 @@
 // Identity
 Name 41st Elite Corps Marksman - Phase I
 ShortName WolffStarWars_Republic41P1Marksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description 41st Elite Corps Marksman with a standard Republic combat loadout.
 
 // Armour

@@ -1,6 +1,7 @@
 // Identity
 Name Shock Troopers - Phase II Assault
 ShortName WolffStarWars_RepublicShockP2Assault
+SkinOverride wolffstarwars_clone_trooper_1
 Description Shock Troopers - Phase II Assault with a standard Republic combat loadout.
 
 // Armour

@@ -1,6 +1,7 @@
 // Identity
 Name Torrent Company Marksman - Phase I
 ShortName WolffStarWars_Republic501P1TorrentMarksman
+SkinOverride wolffstarwars_clone_trooper_1
 Description Torrent Company Marksman - Phase I with matching armor and a combat loadout.
 
 // Armour
