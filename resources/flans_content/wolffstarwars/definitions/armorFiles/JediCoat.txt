@@ -14,3 +14,7 @@ BulletDefence 0.01
 PenetrationResistance 1.00
 ArmorPoints 0
 Toughness 0
+
+// Effects
+AddPotionEffect 11 250 3
+AddPotionEffect 10 250 0
