@@ -23,7 +23,7 @@ Accuracy 0
 
 // Damage and protection
 Damage 0
-MeleeDamage 11
+MeleeDamage 12
 MeleeSpeed 1.8
 
 // Optics
