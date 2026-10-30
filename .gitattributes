@@ -1,0 +1,2 @@
+# Content-pack definitions may use LF or CRLF; a CR at the end of a line is not trailing whitespace.
+*.txt whitespace=cr-at-eol
