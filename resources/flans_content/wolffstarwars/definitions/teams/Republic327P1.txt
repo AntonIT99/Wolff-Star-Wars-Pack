@@ -3,6 +3,7 @@ Name 327th Star Corps - Phase I
 ShortName WolffStarWars_Republic327P1
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_republic
 TextColour Gold
 TeamColour 224 192 64
 Hat clone327Helmet

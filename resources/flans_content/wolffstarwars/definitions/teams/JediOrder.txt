@@ -3,6 +3,7 @@ Name Jedi Order
 ShortName WolffStarWars_JediOrder
 
 // Appearance
+VictoryFlagTexture flag_team_jedi
 TextColour Blue
 TeamColour 64 128 255
 Hat JediHood

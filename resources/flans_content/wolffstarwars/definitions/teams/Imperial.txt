@@ -3,6 +3,7 @@ Name Galactic Empire
 ShortName WolffStarWars_Imperial
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_empire
 TextColour DarkGray
 TeamColour 96 96 96
 Hat stormtrooperHelmet

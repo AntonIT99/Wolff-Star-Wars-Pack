@@ -3,6 +3,7 @@ Name 501st Legion - Phase II
 ShortName WolffStarWars_Republic501P2
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_republic
 TextColour Blue
 TeamColour 64 128 255
 Hat clonetrooper501IIHelmet
