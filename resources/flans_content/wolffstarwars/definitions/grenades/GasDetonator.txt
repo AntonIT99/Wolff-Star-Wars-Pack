@@ -48,7 +48,7 @@ SmokeEffect 4 100 1
 SmokeEffect 9 100 0
 SmokeEffect 18 100 1
 SmokeEffect 19 100 0
-SmokeRadius 4
+SmokeRadius 10
 
 // Sounds and particles
 TrailParticles false
