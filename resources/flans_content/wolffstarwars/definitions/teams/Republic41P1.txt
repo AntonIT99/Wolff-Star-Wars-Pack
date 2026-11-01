@@ -3,6 +3,7 @@ Name 41st Elite Corps - Phase I
 ShortName WolffStarWars_Republic41P1
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_republic
 TextColour DarkGreen
 TeamColour 64 128 64
 Hat clone41Helmet

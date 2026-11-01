@@ -3,6 +3,7 @@ Name Galactic Republic - Phase II
 ShortName WolffStarWars_RepublicStandardP2
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_republic
 TextColour Gray
 TeamColour 192 192 192
 Hat clonetrooperIIHelmet

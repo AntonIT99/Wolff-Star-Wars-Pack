@@ -3,6 +3,7 @@ Name 442nd Siege Battalion - Phase II
 ShortName WolffStarWars_Republic442P2
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_republic
 TextColour Green
 TeamColour 96 192 64
 Hat clone442IIHelmet

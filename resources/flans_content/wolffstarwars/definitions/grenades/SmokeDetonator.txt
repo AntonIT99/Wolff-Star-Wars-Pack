@@ -40,10 +40,11 @@ ExplosionBreaksBlocks false
 FragType DEFAULT
 
 // Smoke and effects
-SmokeTime 600
+SmokeTime 400
+SmokeParticleType flansmod.smoker1
 SmokeEffect 15 100 0
 SmokeEffect 2 100 0
-SmokeRadius 5
+SmokeRadius 10
 
 // Sounds and particles
 TrailParticles false

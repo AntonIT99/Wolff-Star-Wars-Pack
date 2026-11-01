@@ -37,6 +37,7 @@ ExplosionBreaksBlocks false
 
 // Smoke and effects
 SmokeTime 1
+SmokeRadius 0.5
 SmokeEffect 14 100000000 0
 
 // Sounds and particles

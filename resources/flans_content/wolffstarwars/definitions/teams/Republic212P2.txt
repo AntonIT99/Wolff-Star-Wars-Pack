@@ -3,6 +3,7 @@ Name 212th Attack Battalion - Phase II
 ShortName WolffStarWars_Republic212P2
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_republic
 TextColour Gold
 TeamColour 255 160 32
 Hat clone212IIHelmet

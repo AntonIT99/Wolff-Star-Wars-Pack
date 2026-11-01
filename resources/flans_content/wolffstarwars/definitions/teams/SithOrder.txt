@@ -3,6 +3,7 @@ Name Sith Order
 ShortName WolffStarWars_SithOrder
 
 // Appearance
+VictoryFlagTexture flag_team_sith
 TextColour DarkRed
 TeamColour 192 32 32
 Hat SithHood

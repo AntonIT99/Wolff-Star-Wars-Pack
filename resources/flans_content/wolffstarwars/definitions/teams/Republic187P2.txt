@@ -3,6 +3,7 @@ Name 187th Legion - Phase II
 ShortName WolffStarWars_Republic187P2
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_republic
 TextColour light_purple
 TeamColour 160 96 192
 Hat clone187IIHelmet

@@ -3,6 +3,7 @@ Name Kamino Security
 ShortName WolffStarWars_RepublicKaminoSecurity
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_republic
 TextColour DarkRed
 TeamColour 160 48 48
 Hat cloneKaminoHelmet

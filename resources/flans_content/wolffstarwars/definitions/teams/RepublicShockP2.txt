@@ -3,6 +3,7 @@ Name Shock Troopers - Phase II
 ShortName WolffStarWars_RepublicShockP2
 
 // Appearance
+VictoryFlagTexture flag_team_galactic_republic
 TextColour Red
 TeamColour 224 64 64
 Hat cloneShockIIHelmet

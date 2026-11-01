@@ -3,6 +3,7 @@ Name Separatist Alliance - Standard Droids
 ShortName WolffStarWars_SeparatistStandard
 
 // Appearance
+VictoryFlagTexture flag_team_cis
 TextColour DarkRed
 TeamColour 192 64 64
 Hat BattleDroid

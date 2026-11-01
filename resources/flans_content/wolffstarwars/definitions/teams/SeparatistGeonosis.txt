@@ -3,6 +3,7 @@ Name Separatist Alliance - Geonosis Droids
 ShortName WolffStarWars_SeparatistGeonosis
 
 // Appearance
+VictoryFlagTexture flag_team_cis
 TextColour Red
 TeamColour 192 112 64
 Hat BattleDroidGeonosis
