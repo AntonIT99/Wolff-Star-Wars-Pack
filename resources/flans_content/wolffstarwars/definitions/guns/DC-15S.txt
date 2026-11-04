@@ -9,6 +9,7 @@ Model wolffstarwars.DC15S
 Texture skindc15s
 FlashModel wolffstarwars.MuzzleFlash
 FlashTexture sw_blueflash
+animAimOffset 0 1 0
 
 // Ammunition
 Ammo Dc15Ammo
