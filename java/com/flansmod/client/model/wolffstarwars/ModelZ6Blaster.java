@@ -7,9 +7,6 @@ import com.flansmod.common.vector.Vector3f;
 
 public class ModelZ6Blaster extends ModelGun
 {
-	private ModelRendererTurbo[] spinnerModel;
-	private Vector3f spinnerOrigin;
-	
 	public ModelZ6Blaster()
 	{
 		int textureX = 64;
