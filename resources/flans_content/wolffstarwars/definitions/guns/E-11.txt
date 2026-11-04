@@ -9,6 +9,7 @@ Model wolffstarwars.E11
 Texture e11
 FlashModel wolffstarwars.MuzzleFlash
 FlashTexture sw_redflash
+EjectCasings False
 
 // Ammunition
 Ammo E-11Ammo

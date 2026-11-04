@@ -11,6 +11,7 @@ ModelScale 0.8
 FlashModel wolffstarwars.MuzzleFlash
 FlashTexture sw_redflash
 animAimOffset 0 2.5 1
+EjectCasings False
 
 // Ammunition
 Ammo E-5Ammo
