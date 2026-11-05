@@ -9,6 +9,8 @@ Model wolffstarwars.DC15S
 Texture skindc15s
 FlashModel wolffstarwars.MuzzleFlash
 FlashTexture sw_stealthflash
+animAimOffset 0 1 0
+EjectCasings False
 
 // Ammunition
 Ammo Dc15Ammo
@@ -23,6 +25,8 @@ Deployable False
 OneHanded True
 
 // Ballistics
+AmmoMuzzleVelocity Dc15Ammo 260
+AmmoMuzzleVelocity Dc19invisibleAmmo 260
 Recoil 3
 Dispersion 0.2
 MuzzleVelocity 260.0

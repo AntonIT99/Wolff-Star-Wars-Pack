@@ -10,6 +10,8 @@ Texture skindc15s
 ModelScale 0.9
 FlashModel wolffstarwars.MuzzleFlash
 FlashTexture sw_blueflash
+animAimOffset 0 1 0
+EjectCasings False
 
 // Ammunition
 Ammo Dc17Ammo

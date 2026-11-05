@@ -11,9 +11,10 @@ Texture z6blaster
 ModelScale 1.0
 FlashModel wolffstarwars.MuzzleFlash
 FlashTexture sw_blueflash
+EjectCasings False
 
 // Ammunition
-Ammo Dc15Ammo
+Ammo Z6Ammo
 Ammo blasterStunAmmo
 ReloadTime 100
 NumBullets 1

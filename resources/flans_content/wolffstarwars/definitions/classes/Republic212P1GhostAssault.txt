@@ -13,4 +13,4 @@ Shoes cloneghostBoots
 // Items
 AddItem blasterDC-15S
 AddItem ThermalDetonator 3
-AddItem Dc15Ammo 4
+AddItem Dc15sAmmo 4

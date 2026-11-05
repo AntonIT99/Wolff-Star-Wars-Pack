@@ -8,9 +8,10 @@ Icon droidekablaster
 Colour 255 255 255
 Model wolffstarwars.DroidekaBlaster
 Texture droidekablaster
+EjectCasings False
 
 // Ammunition
-Ammo E-5Ammo
+Ammo DroidekaAmmo
 ReloadTime 40
 NumBullets 2
 

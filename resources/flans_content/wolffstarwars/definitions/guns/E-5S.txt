@@ -9,9 +9,10 @@ Model wolffstarwars.E5S
 Texture skindc15s
 FlashModel wolffstarwars.MuzzleFlash
 FlashTexture sw_redflash
+EjectCasings False
 
 // Ammunition
-Ammo E-5Ammo
+Ammo E-5sAmmo
 Ammo blasterStunAmmo
 ReloadTime 60
 
