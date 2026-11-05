@@ -7,13 +7,14 @@ Model wolffstarwars.LaserBeam
 Colour 255 255 255
 Texture wolffstarwars_laser_blue
 Icon laserblasterammo
-RoundsPerItem 100
+RoundsPerItem 50
 
 // Ballistics
+MuzzleVelocity 250
 FallSpeed 0
 
 // Damage and detonation
-Damage 5
+Damage 12
 Explosion 0
 ExplodeOnImpact false
 Fuse 0

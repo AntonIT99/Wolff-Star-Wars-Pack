@@ -8,4 +8,4 @@ Hat BattleDroidScout
 
 // Items
 AddItem blasterE-5s
-AddItem E-5Ammo 3
+AddItem E-5sAmmo 3

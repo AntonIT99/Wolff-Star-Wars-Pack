@@ -12,7 +12,7 @@ FlashTexture sw_redflash
 EjectCasings False
 
 // Ammunition
-Ammo E-5Ammo
+Ammo E-5sAmmo
 Ammo blasterStunAmmo
 ReloadTime 60
 

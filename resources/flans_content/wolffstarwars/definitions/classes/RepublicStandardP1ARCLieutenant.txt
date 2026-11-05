@@ -15,5 +15,5 @@ AddItem blasterDC-15S
 AddItem blasterDC-17
 AddItem blasterDC-17
 AddItem ThermalDetonator 2
-AddItem Dc15Ammo 4
+AddItem Dc15sAmmo 4
 AddItem Dc17Ammo 4

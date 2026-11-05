@@ -13,5 +13,5 @@ Shoes clonegreenBoots
 // Items
 AddItem Z6rotaryblaster
 AddItem blasterDC-17
-AddItem Dc15Ammo 8
+AddItem Z6Ammo 8
 AddItem Dc17Ammo 2

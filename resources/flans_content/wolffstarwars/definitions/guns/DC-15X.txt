@@ -12,7 +12,7 @@ FlashTexture sw_blueflash
 EjectCasings False
 
 // Ammunition
-Ammo Dc15Ammo
+Ammo Dc15xAmmo
 Ammo blasterStunAmmo
 ReloadTime 60
 

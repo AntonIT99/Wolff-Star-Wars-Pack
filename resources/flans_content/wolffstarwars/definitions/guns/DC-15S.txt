@@ -13,7 +13,7 @@ animAimOffset 0 1 0
 EjectCasings False
 
 // Ammunition
-Ammo Dc15Ammo
+Ammo Dc15sAmmo
 Ammo blasterStunAmmo
 ReloadTime 40
 

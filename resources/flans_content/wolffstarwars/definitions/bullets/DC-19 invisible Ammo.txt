@@ -10,10 +10,11 @@ Icon laserblasterammo
 RoundsPerItem 10
 
 // Ballistics
+MuzzleVelocity 260
 FallSpeed 0
 
 // Damage and detonation
-Damage 10
+Damage 16
 Explosion 0
 ExplodeOnImpact false
 Fuse 0

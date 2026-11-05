@@ -1,0 +1,29 @@
+// Identity
+Name DC-15S Power Pack
+ShortName Dc15sAmmo
+
+// Item and rendering
+Model wolffstarwars.LaserBeam
+Colour 255 255 255
+Texture wolffstarwars_laser_blue
+Icon laserblasterammo
+RoundsPerItem 50
+
+// Ballistics
+MuzzleVelocity 260
+FallSpeed 0
+
+// Damage and detonation
+Damage 16
+Explosion 0
+ExplodeOnImpact false
+Fuse 0
+Fire 0
+BreaksGlass True
+HitBoxSize 0.1
+Penetrates False
+
+// Sounds and particles
+FlakParticles 0
+HitSound bullet
+SmokeTrail False

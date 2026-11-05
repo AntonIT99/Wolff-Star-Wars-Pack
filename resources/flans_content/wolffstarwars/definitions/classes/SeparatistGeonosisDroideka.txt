@@ -9,4 +9,4 @@ Chest droidekashield
 
 // Items
 AddItem droidekablaster
-AddItem E-5Ammo 8
+AddItem DroidekaAmmo 8

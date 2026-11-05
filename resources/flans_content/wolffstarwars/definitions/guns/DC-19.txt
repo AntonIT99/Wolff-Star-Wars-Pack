@@ -25,6 +25,8 @@ Deployable False
 OneHanded True
 
 // Ballistics
+AmmoMuzzleVelocity Dc15Ammo 260
+AmmoMuzzleVelocity Dc19invisibleAmmo 260
 Recoil 3
 Dispersion 0.2
 MuzzleVelocity 260.0

@@ -11,7 +11,7 @@ Texture droidekablaster
 EjectCasings False
 
 // Ammunition
-Ammo E-5Ammo
+Ammo DroidekaAmmo
 ReloadTime 40
 NumBullets 2
 
