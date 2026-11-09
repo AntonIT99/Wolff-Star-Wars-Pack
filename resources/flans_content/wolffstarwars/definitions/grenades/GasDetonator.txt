@@ -52,5 +52,5 @@ SmokeRadius 10
 
 // Sounds and particles
 TrailParticles false
-ExplodeParticles 0
+NumExplodeParticles 0
 ThrowSound detonator

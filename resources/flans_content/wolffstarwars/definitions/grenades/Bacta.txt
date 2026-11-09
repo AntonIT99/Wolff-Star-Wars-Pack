@@ -44,5 +44,5 @@ SmokeParticles heart
 
 // Sounds and particles
 TrailParticles false
-ExplodeParticles 0
+NumExplodeParticles 0
 ThrowSound CreeperExplode
