@@ -37,6 +37,8 @@ MeleeSound lightsaber_swing
 DistortSound False
 MeleeHitSound lightsaber_hit
 ShieldHitSound lightsaber_hit
+BlockSound lightsaber_swing
+DeflectSound lightsaber_hit
 IdleSound lightsaber_idle
 IdleSoundLength 265
 ToggleOnSound lightsaber_on
